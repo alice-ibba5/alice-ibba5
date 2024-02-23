@@ -1,20 +1,22 @@
 ### Hi there 👋
 
-- 👩‍💻 Sono una sviluppatrice web full-stack con un background altrettanto diversificato quanto i miei interessi! 🎨
+- 👩‍💻 I'm a full-stack web developer with a background as diverse as my interests! 🎨
 
-- 🏛️ Dopo essermi laureata in architettura, mi sono immersa nel design d'interni e nei suoi vari stili, insieme all'architettura per il benessere e al design grafico. Iniziando come assistente architetto, sono poi passata alla libera professione.
+- 🏛️ After graduating in architecture, I delved into interior design and its various styles, along with architecture for wellness and graphic design. Starting out as an architectural assistant, I later transitioned into freelancing.
 
-- 🚀 Recentemente, alimentata dalla mia passione per la tecnologia e lo sviluppo web, mi sono lanciata in un percorso di 6 mesi per diventare una sviluppatrice web full-stack.
+- 🚀 Recently, fueled by my passion for technology and web development, I embarked on a 6-month journey to become a full-stack web developer.
 
-- 📖 Le mie competenze spaziano dallo sviluppo frontend a quello backend, includendo HTML, CSS, JavaScript, React, Node.js, Bootstrap e MongoDB.
+- 📖 My skills span both frontend and backend development, including HTML, CSS, JavaScript, React, Node.js, Bootstrap, and MongoDB.
 
-- 🏴 Parlo fluentemente italiano e inglese, e mi trovo bene in ambienti linguistici diversificati.
+- 🏴 Fluent in both Italian and English, I thrive in diverse linguistic environments.
 
-- 💡 Mi piace pensarmi come una multipotenziale, con una miriade di interessi e passioni creative. Oltre alla tecnologia, sono profondamente affascinata dalla psicologia, dalla sostenibilità, dal benessere e dal design.
+- 💡 I like to think of myself as a multipotentialite, with a plethora of interests and creative passions. In addition to technology, I'm deeply fascinated by psychology, sustainability, well-being, and design.
 
-- 🌱 I’m currently learning: Java e Spring Boot
+- 🌱 I’m currently learning: Java and Spring Boot
 
 - 📫 How to reach me: <a href="https://aliceibba-developer.netlify.app/"> 🔮 </a>
+
+<h3>Let's connect and create something extraordinary together! 🌟</h3>
 
 <!--
 **alice-ibba5/alice-ibba5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
