@@ -12,6 +12,10 @@
 
 💡 Mi piace pensarmi come una multipotenziale, con una miriade di interessi e passioni creative. Oltre alla tecnologia, sono profondamente affascinata dalla psicologia, dalla sostenibilità, dal benessere e dal design.
 
+- 🌱 I’m currently learning: Java e Spring Boot
+
+- 📫 How to reach me: <a href="https://aliceibba-developer.netlify.app/"> 🔮 </a>
+
 <!--
 **alice-ibba5/alice-ibba5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
