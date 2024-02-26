@@ -1,3 +1,5 @@
+<img src="https://github.com/alice-ibba5/alice-ibba5/banner.png">
+
 ### Hi there 👋
 
 - 👩‍💻 I'm a full-stack web developer with a background as diverse as my interests! 🎨
