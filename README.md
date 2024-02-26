@@ -1,4 +1,4 @@
-<img src="https://github.com/alice-ibba5/alice-ibba5/banner.png">
+<img src="Banner.png">
 
 ### Hi there 👋
 
